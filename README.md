@@ -7,7 +7,7 @@
 
 ![Netflix clone sketch](src/assets/netflix-clone-sketch.png)
 
-# features
+# Features
 * Full Responsive
 * working with api
 * get data from The Movie Database(tmdb)
